@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ft</groupId>
-    <artifactId>sample_nexus/artifactId>
+    <artifactId>sample_nexus</artifactId>
     <version>0.0.3</version>
 
     <distributionManagement>
