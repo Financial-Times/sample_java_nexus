@@ -1,0 +1,14 @@
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/QueueProxyProducerException.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/QueueProxyConfiguration.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/QueueProxyService.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/HttpClient.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/MessageProducer.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/JerseyClient.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/QueueProxyProducer.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/QueueProxyServiceImpl.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/QueueProxyServiceException.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/health/QueueProxyHealthcheck.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/model/MessageWithRecords.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/model/KeyedMessage.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/model/MessageRecord.java
+/home/vedun/stash/message-queue-producer/src/main/java/com/ft/messagequeueproducer/Jersey2Client.java
